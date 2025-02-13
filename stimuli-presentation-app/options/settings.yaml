@@ -1,0 +1,20 @@
+## Smooth Pursuit settings
+pre_move_countdown: 2
+
+pre_move_seconds: 0.5
+hint_past_seconds: 0.25
+hint_future_seconds: 0.5
+
+## Saccade settings
+grid_width: 14
+grid_height: 8
+
+## General settings
+tps: 120 # Ticks Per Second
+
+bounding_box_width: 440 # in mm
+bounding_box_height: 220 # in mm
+
+start_countdown: 3
+
+distance_to_screen: 60
