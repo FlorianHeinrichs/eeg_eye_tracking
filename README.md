@@ -41,6 +41,15 @@ This project is licensed under the [MIT License](https://github.com/FlorianHeinr
 
 ## Citation
 
-If you use this code in your own work, please cite the following paper:
+If you use this code in your own work, please cite the following preprint:
 
--- Citation to be added --
+- Vasconcelos Afonso, T. and Heinrichs, F. (2025). Consumer-grade eeg-based eye tracking. *arXiv preprint arXiv:2503.14322*.
+
+BibTeX:
+
+    @article{afonso2025,
+    	title={Consumer-grade EEG-based Eye Tracking},
+    	author={Vasconcelos Afonso, Tiago and Heinrichs, Florian},
+    	journal={arXiv preprint arXiv:2503.14322},
+    	year={2025}
+    }
