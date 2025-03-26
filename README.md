@@ -49,7 +49,7 @@ BibTeX:
 
     @article{afonso2025,
     	title={Consumer-grade EEG-based Eye Tracking},
-    	author={Vasconcelos Afonso, Tiago and Heinrichs, Florian},
+    	author={Afonso, Tiago Vasconcelos and Heinrichs, Florian},
     	journal={arXiv preprint arXiv:2503.14322},
     	year={2025}
     }
