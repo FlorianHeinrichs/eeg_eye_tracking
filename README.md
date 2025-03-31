@@ -10,9 +10,8 @@ hardware.
 The dataset used in this project is available on [Zenodo](https://zenodo.org/records/14860668) 
 and can be accessed using the following DOI: [DOI link](https://doi.org/10.5281/zenodo.14860668).
 
-> **Note**: A detailed data descriptor will be published in the future to 
-> provide comprehensive information about the dataset, its variables, and how it 
-> can be used.
+A detailed data descriptor with comprehensive information about the dataset, its 
+variables, and how it can be used can be found on [arXiv](https://arxiv.org/abs/2503.14322). 
 
 ## Project Structure
 
